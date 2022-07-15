@@ -1,3 +1,3 @@
-module github.com/anarakinson/go-test-module
+module github.com/anarakinson/go_test_module
 
 go 1.17
