@@ -1,4 +1,4 @@
-package go_test_module
+package utils
 
 func Contains(array []string, target string) bool {
     for _, el := range(array) {
